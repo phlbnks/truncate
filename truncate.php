@@ -1,4 +1,7 @@
 <?php
+// Written by Phil Banks
+// Based on code from http://www.the-art-of-web.com/php/truncate/
+//// Original PHP code by Chirp Internet: www.chirp.com.au. Please acknowledge use of this code by including this header.
 
 function truncate($type='words', $string, $length, $break='.', $pad='')
 {
