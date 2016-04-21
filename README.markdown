@@ -5,6 +5,7 @@ v0.1
 Truncate is a PHP function to create extracts of text, giving various otions for how and where it cuts the text. 
 
 
+
 Getting Started
 ---------------
 Call the function with `truncate($type, $string, $length, $break, $pad);`.
